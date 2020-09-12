@@ -4,8 +4,6 @@
 
 ## Get started
 
-by brent
-
 Make sure that the classes defined in _scrivo/Highlight_ can be found either by inclusion or by an autoloader. A trivial autoloader for this purpose is included in this project. Alternatively you can use some other autoloading functionality, for example the one provided by composer.
 
 Second, the [styles](#2-styles) directory must be located somewhere in your document root. The page that contains your highlighted code will need to reference these CSS files.
