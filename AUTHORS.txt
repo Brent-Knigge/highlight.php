@@ -1,4 +1,4 @@
-Syntax highlighting with language autodetection in PHP.
+Syntax highlighting with language autodetection in PHP..
 
 -------------------------------------------------------------------------------
 
