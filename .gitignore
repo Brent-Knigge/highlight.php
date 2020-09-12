@@ -5,3 +5,7 @@ lib_highlight/
 *.tar.gz
 vendor/
 composer.lock
+.gitsecret/keys/random_seed
+!*.secret
+secret_file1.txt
+AUTHORS.txt
